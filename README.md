@@ -1,24 +1,21 @@
 
 <!--
-  HUZAIFA ANWAR — GitHub Profile README
+  Huzaifa Anwar | Software Engineer
   GitHub: https://github.com/huzaifa-anw
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:00D9FF&height=180&section=header&text=Huzaifa%20Anwar&fontSize=42&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Engineer%20%7C%20Building%20and%20Learning&descSize=15&descAlignY=60&animation=fadeIn" width="100%" alt="Huzaifa Anwar — Software Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:00D9FF&height=180&section=header&text=Huzaifa%20Anwar&fontSize=42&fontColor=E6EDF3&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Backend&descSize=17&descAlignY=60&animation=fadeIn" width="100%" alt="Huzaifa Anwar | Software Engineer"/>
 
 <a href="https://github.com/huzaifa-anw">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=600&lines=console.log(%22Hello%2C+World!%22);Software+Engineering+Student;Building+things+that+solve+problems;Learning.+Building.+Improving." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+Backend+Engineering;Building+reliable+systems;Turning+ideas+into+software" alt="Animated introduction"/>
 </a>
 
 <br/>
 
-<a href="https://github.com/huzaifa-anw">
-  <img src="https://img.shields.io/badge/GitHub-huzaifa--anw-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
-</a>
-<img src="https://img.shields.io/badge/Focus-Software%20Engineering-00D9FF?style=for-the-badge&labelColor=161B22" alt="Software engineering"/>
-<img src="https://img.shields.io/badge/Status-Always%20Learning-3FB950?style=for-the-badge&labelColor=161B22" alt="Always learning"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Backend-00D9FF?style=for-the-badge&labelColor=161B22" alt="AI and backend engineering"/>
+<img src="https://img.shields.io/badge/Approach-Build%20%26%20Improve-3FB950?style=for-the-badge&labelColor=161B22" alt="Build and improve"/>
 
 </div>
 
@@ -26,24 +23,26 @@
 
 ## `> whoami`
 
+I'm a software engineer specializing in **backend focused fullstack engineering and AI-powered applications**.
+
+I enjoy building APIs, designing databases, exploring system architecture, and integrating AI capabilities into practical software products.
+
+I'm interested in the engineering behind reliable software: how systems are designed, how data flows through them, and how individual components come together to solve real problems.
+
 ```ts
 const huzaifa = {
-  name: "Huzaifa Anwar",
-  role: "Software Engineering Student",
+  role: "Software Engineer",
+  specialization: ["AI Engineering", "Backend Engineering"],
+  languages: ["TypeScript", "JavaScript", "Python", "Go"],
   interests: [
-    "Software Engineering",
-    "Backend Development",
-    "Databases & System Design",
-    "AI-powered Applications",
+    "Backend Architecture",
+    "APIs & Databases",
+    "LLM-powered Applications",
+    "System Design",
   ],
-  currentlyLearning: ["TypeScript", "NestJS", "Go"],
-  mindset: "Learn the fundamentals. Build real things. Keep improving.",
+  philosophy: "Understand the fundamentals. Build with purpose.",
 };
 ```
-
-I enjoy understanding how software works beneath the surface, from APIs and databases to the systems that bring applications together.
-
-I'm focused on strengthening my engineering fundamentals, writing maintainable code, and building projects that solve real problems.
 
 ---
 
@@ -53,19 +52,23 @@ I'm focused on strengthening my engineering fundamentals, writing maintainable c
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp&theme=dark" alt="TypeScript, JavaScript, Python, Go and C++ icons"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,go,cpp&theme=dark" alt="Programming languages"/>
 
 ### Backend & Databases
 
 <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mysql,prisma&theme=dark" alt="Backend and database technologies"/>
 
-### Frontend & Tools
+### AI Engineering
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,docker,vscode&theme=dark" alt="Frontend and development tools"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
+
+`LLM APIs` · `RAG` · `Embeddings` · `Vector Search`
+
+### Frontend & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,git,github,docker,vscode&theme=dark" alt="Frontend and developer tools"/>
 
 </div>
-
-> This is a technology overview, not a claim of equal proficiency in every tool. My focus and experience evolve as I build.
 
 ---
 
@@ -74,21 +77,21 @@ I'm focused on strengthening my engineering fundamentals, writing maintainable c
 <div align="center">
 
 <a href="https://github.com/huzaifa-anw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-anw&repo=Spendly&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Spendly repository card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-anw&repo=Spendly&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="Spendly project card"/>
 </a>
 
 <a href="https://github.com/huzaifa-anw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-anw&repo=BoltBid&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="BoltBid repository card"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa-anw&repo=BoltBid&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF" alt="BoltBid project card"/>
 </a>
 
 </div>
 
-### Selected projects
+### Featured projects
 
 - **Spendly** — A personal finance application.
 - **BoltBid** — A real-time auction application.
 
-Explore my [repositories](https://github.com/huzaifa-anw?tab=repositories) for more projects and source code.
+Explore my [GitHub repositories](https://github.com/huzaifa-anw?tab=repositories) to see more of my work.
 
 ---
 
@@ -97,11 +100,11 @@ Explore my [repositories](https://github.com/huzaifa-anw?tab=repositories) for m
 <div align="center">
 
 <a href="https://github.com/huzaifa-anw">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa-anw&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=huzaifa-anw&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 </a>
 
 <a href="https://github.com/huzaifa-anw">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-anw&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most-used programming languages on GitHub"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa-anw&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" alt="Most-used languages"/>
 </a>
 
 <br/>
@@ -121,25 +124,23 @@ Explore my [repositories](https://github.com/huzaifa-anw?tab=repositories) for m
 <a href="https://github.com/huzaifa-anw">
   <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/huzaifaanwar">
   <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:huzaifaanwar226@gmail.com">
   <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 
 </div>
 
-> Replace the LinkedIn URL with your profile and `YOUR_EMAIL` with the email address you want to share publicly.
-
 ---
 
 <div align="center">
 
-### `while (alive) { learn(); build(); improve(); }`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:0D1117&height=100&section=footer" width="100%" alt="Footer banner"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:102A43,100:0D1117&height=100&section=footer" width="100%" alt="Cyan terminal-inspired footer"/>
+### `design() → build() → test() → improve()`
 
-<sub>Built with curiosity, consistency, and a lot of debugging.</sub>
+<sub>Building useful software, one system at a time.</sub>
 
 </div>
