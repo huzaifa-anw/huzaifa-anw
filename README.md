@@ -149,7 +149,7 @@ Explore my [repositories](https://github.com/huzaifa-anw?tab=repositories) for s
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,40:007F95,75:102A43,100:050816&height=120&section=footer" width="100%" alt="Cyan and navy footer banner"/>
 
-### `engineer()` · `architect()` · `deliver()`
+### `engineer()` · `architect()` · `deliver()` · `refine()`
 
 <sub>Turning complex problems into well-engineered software.</sub>
 
